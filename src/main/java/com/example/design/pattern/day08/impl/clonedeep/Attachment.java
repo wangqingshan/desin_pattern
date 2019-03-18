@@ -1,4 +1,4 @@
-package com.example.design.pattern.day08.impl.shallowclone;
+package com.example.design.pattern.day08.impl.clonedeep;
 
 import java.io.Serializable;
 

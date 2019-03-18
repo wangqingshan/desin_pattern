@@ -1,4 +1,4 @@
-package com.example.design.pattern.day08.impl.deepclone;
+package com.example.design.pattern.day08.impl.cloneshallow;
 
 /**
  * author 90
