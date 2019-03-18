@@ -13,8 +13,8 @@ package com.example.design.pattern.day10.impl;
 public class Test {
 
     public static void main(String[] args) {
-        Source source=new Source();
-        Decorator decorator=new Decorator(source);
+        Sourceable source=new Source();
+        Sourceable decorator=new Decorator(source);
         decorator.method();
 
         //假如不用接口呢？
